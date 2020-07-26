@@ -74,37 +74,37 @@ This python program implements the backpropagation algorithm in order to classif
 
 ---
 
-![figure a](C:\Users\yashc\GIT\Backpropagation-Digit-Classification\fig_a.jpg)
+![figure a](fig_a.jpg)
 
 ## fig b: 50 Neurons (learning rate -> 0.1)
 
 ---
 
-![figure b](C:\Users\yashc\GIT\Backpropagation-Digit-Classification\fig_b.jpg)
+![figure b](fig_b.jpg)
 
 ## fig c: 15 Neurons (learning rate -> 0.1)
 
 ---
 
-![figure c](C:\Users\yashc\GIT\Backpropagation-Digit-Classification\fig_c.jpg)
+![figure c](fig_c.jpg)
 
 ## fig d: 100 Neurons (learning rate -> 0.1)
 
 ---
 
-![figure d](C:\Users\yashc\GIT\Backpropagation-Digit-Classification\fig_d.jpg)
+![figure d](fig_d.jpg)
 
 ## fig e: 75 Neurons (learning rate -> 1.0)
 
 ---
 
-![figure e](C:\Users\yashc\GIT\Backpropagation-Digit-Classification\fig_e.jpg)
+![figure e](fig_e.jpg)
 
 ## fig f: 75 Neurons (learning rate -> 0.01)
 
 ---
 
-![figure f](C:\Users\yashc\GIT\Backpropagation-Digit-Classification\fig_f.jpg)
+![figure f](fig_f.jpg)
 
 ## Refer:
 
