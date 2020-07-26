@@ -27,7 +27,7 @@ This python program implements the backpropagation algorithm in order to classif
 
    * Simple energy function was used, which is the Mean Squared Error (MSE): 
 
-     ![MSE](C:\Users\yashc\GIT\Backpropagation-Digit-Classification\mse.jpg)
+     ![MSE](mse.jpg)
 
    * Again, this is easy to compute and works well for our vector output representation. 
 
