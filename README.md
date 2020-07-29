@@ -110,3 +110,11 @@ This python program implements the backpropagation algorithm in order to classif
 
 1. [Backpropagation Algorithm](https://en.wikipedia.org/wiki/Backpropagation)
 2. [MNIST dataset](http://yann.lecun.com/exdb/mnist/)
+
+
+
+## Libraries Used
+
+1. Struct - to read the binary files.
+2. Numpy library is used to store and manipulate the data.
+3. Matplotlib is used in order to plot the results.
